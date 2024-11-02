@@ -8,9 +8,7 @@ for (let i = myarray.length - 1; i >= 0; i--) {
     reversearray.push(myarray[i]);
 }
 
-
 // Another Waay
-
 
 // console.log(myarray);
 // console.log(reversearray);
